@@ -1,3 +1,9 @@
 [submodule "framework_base"]
 	path = framework_base
 	url = https://github.com/MrDreamCacher/Framework_base.git
+[submodule "uikit"]
+	path = uikit
+	url = https://github.com/MrDreamCacher/UIKit_android.git
+[submodule "common"]
+	path = common
+	url = https://github.com/MrDreamCacher/Common_android.git
