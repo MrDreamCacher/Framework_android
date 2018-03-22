@@ -1,0 +1,3 @@
+[submodule "framework_base"]
+	path = framework_base
+	url = https://github.com/MrDreamCacher/Framework_base.git
